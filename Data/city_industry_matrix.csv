@@ -1,0 +1,543 @@
+"date","city_name","industry_name","detection_count"
+"2023-04-23","Abu Dhabi","Professional Services",2
+"2023-04-23","Adalaj","Hospitality & Healthcare",4
+"2023-04-23","Agartala","Professional Services",3
+"2023-04-23","Ahmedabad","Telecom",1
+"2023-04-23","Ahmedabad","IT/ITES",6
+"2023-04-23","Ahmedabad","Education",28
+"2023-04-23","Ahmedabad","Hospitality & Healthcare",51
+"2023-04-23","Ahmedabad","Government",5
+"2023-04-23","Ahmedabad","Automobiles",221
+"2023-04-23","Ahmedabad","Professional Services",280
+"2023-04-23","Ahmedabad","Manufacturing",387
+"2023-04-23","Alabang","Professional Services",3
+"2023-04-23","Allahabad","Education",1
+"2023-04-23","Allahabad","Government",8
+"2023-04-23","Allahabad","Professional Services",6
+"2023-04-23","Ambala","Professional Services",1
+"2023-04-23","Ambala","Manufacturing",1
+"2023-04-23","Ambala","Hospitality & Healthcare",116
+"2023-04-23","Ambato","Professional Services",8
+"2023-04-23","Amman","Professional Services",11
+"2023-04-23","Amnat Charoen","Professional Services",26
+"2023-04-23","Amravati","Manufacturing",3
+"2023-04-23","Amravati","Government",55
+"2023-04-23","Amritsar","Education",1
+"2023-04-23","Amritsar","Media & Entertainment",8
+"2023-04-23","Amta","Manufacturing",1
+"2023-04-23","Anand","Professional Services",2
+"2023-04-23","Anand","Manufacturing",32
+"2023-04-23","Andagaw","Professional Services",146
+"2023-04-23","Andheri East","Professional Services",1
+"2023-04-23","Antipolo City","Professional Services",1
+"2023-04-23","Antofagasta","Professional Services",1
+"2023-04-23","Anuppur","Government",1
+"2023-04-23","Araghar","Manufacturing",3
+"2023-04-23","Arjunganj","Manufacturing",2
+"2023-04-23","Arjuni","Manufacturing",1
+"2023-04-23","Aurangabad","Government",3
+"2023-04-23","Aurangabad","Manufacturing",1
+"2023-04-23","Aurangabad","Professional Services",2
+"2023-04-23","Aurangabad","Hospitality & Healthcare",963
+"2023-04-23","Ayutthaya","Professional Services",3
+"2023-04-23","Bacheli","Professional Services",1
+"2023-04-23","Bacolod City","Professional Services",3
+"2023-04-23","Baguio City","Professional Services",33
+"2023-04-23","Bahtarai","Government",2
+"2023-04-23","Balasore","Manufacturing",1
+"2023-04-23","Ballia","Professional Services",10
+"2023-04-23","Ban Mueang Chang Tai","Professional Services",2
+"2023-04-23","Bang Kapi","Professional Services",1
+"2023-04-23","Bangkok","Professional Services",292
+"2023-04-23","Bapatla","Professional Services",1
+"2023-04-23","Baramati","Education",1
+"2023-04-23","Bareilly","Automobiles",3
+"2023-04-23","Bareilly","Education",11
+"2023-04-23","Bareilly","Manufacturing",2
+"2023-04-23","Barnala","Government",28
+"2023-04-23","Barwani","Education",18
+"2023-04-23","Batasan Hills","Professional Services",6
+"2023-04-23","Bathinda","Government",7
+"2023-04-23","Bengaluru","Media & Entertainment",1
+"2023-04-23","Bengaluru","Logistic",1
+"2023-04-23","Bengaluru","Automobiles",51
+"2023-04-23","Bengaluru","IT/ITES",50
+"2023-04-23","Bengaluru","Power & Energy",29
+"2023-04-23","Bengaluru","Hospitality & Healthcare",49
+"2023-04-23","Bengaluru","Professional Services",41
+"2023-04-23","Bengaluru","BFSI",6
+"2023-04-23","Bengaluru","Manufacturing",94
+"2023-04-23","Bengaluru","Education",6
+"2023-04-23","Bengaluru","Government",511
+"2023-04-23","Bharuch","Education",1
+"2023-04-23","Bharuch","Government",2
+"2023-04-23","Bhavnagar","Hospitality & Healthcare",1
+"2023-04-23","Bhavnagar","Manufacturing",2088
+"2023-04-23","Bhilai","Government",4
+"2023-04-23","Bhilai","IT/ITES",1
+"2023-04-23","Bhilai","Automobiles",2
+"2023-04-23","Bhilwara","Strategic & Public Enterprises",2
+"2023-04-23","Bhilwara","Manufacturing",2
+"2023-04-23","Bhiwandi","IT/ITES",3
+"2023-04-23","Bhiwani","Government",3
+"2023-04-23","Bhiwani","Professional Services",5
+"2023-04-23","Bhopal","Government",2
+"2023-04-23","Bhopal","Education",3
+"2023-04-23","Bhopal","Manufacturing",5
+"2023-04-23","Bhubaneswar","Government",2
+"2023-04-23","Bhubaneswar","BFSI",3
+"2023-04-23","Bhubaneswar","Manufacturing",30
+"2023-04-23","Bhubaneswar","Education",501
+"2023-04-23","Bilaspur","Manufacturing",60
+"2023-04-23","Biswan","Professional Services",1
+"2023-04-23","BogotÃ¡","Professional Services",4
+"2023-04-23","Boisar","Professional Services",23
+"2023-04-23","Bokadvira","Professional Services",1
+"2023-04-23","Bulacan","Professional Services",3
+"2023-04-23","Bulandshahr","Professional Services",6
+"2023-04-23","Buriram","Professional Services",4
+"2023-04-23","CancÃºn","Professional Services",1
+"2023-04-23","Central","Professional Services",2
+"2023-04-23","Chandigarh","Media & Entertainment",2
+"2023-04-23","Chandigarh","Government",1
+"2023-04-23","Chennai","BFSI",6
+"2023-04-23","Chennai","Media & Entertainment",2
+"2023-04-23","Chennai","IT/ITES",6
+"2023-04-23","Chennai","Manufacturing",69
+"2023-04-23","Chennai","Hospitality & Healthcare",83
+"2023-04-23","Chennai","Government",225
+"2023-04-23","Chennai","Professional Services",429
+"2023-04-23","Chennai","Education",1673
+"2023-04-23","Chiang Mai","Professional Services",7
+"2023-04-23","Chicago","IT/ITES",1
+"2023-04-23","Churachandpur","Media & Entertainment",1
+"2023-04-23","Coimbatore","BFSI",1
+"2023-04-23","Coimbatore","IT/ITES",4
+"2023-04-23","Coimbatore","Manufacturing",9
+"2023-04-23","Coimbatore","Media & Entertainment",38
+"2023-04-23","Coimbatore","Professional Services",11
+"2023-04-23","Coimbatore","Government",1
+"2023-04-23","Coimbatore","Education",554
+"2023-04-23","Colombo","Professional Services",342
+"2023-04-23","Colva","Manufacturing",1
+"2023-04-23","Colva","Government",1
+"2023-04-23","Colva","Professional Services",2
+"2023-04-23","Cuttack","Manufacturing",5
+"2023-04-23","Cuttack","Professional Services",174
+"2023-04-23","Daman","Manufacturing",24
+"2023-04-23","Davao City","Professional Services",1
+"2023-04-23","Dehiwala","Professional Services",3
+"2023-04-23","Dehradun","Professional Services",4
+"2023-04-23","Dehradun","Government",31
+"2023-04-23","Dehradun","Automobiles",8
+"2023-04-23","Dehradun","Hospitality & Healthcare",147
+"2023-04-23","Delhi","Strategic & Public Enterprises",1
+"2023-04-23","Delhi","Logistic",2
+"2023-04-23","Delhi","BFSI",8
+"2023-04-23","Delhi","Government",3
+"2023-04-23","Delhi","Automobiles",21
+"2023-04-23","Delhi","Manufacturing",31
+"2023-04-23","Delhi","IT/ITES",7
+"2023-04-23","Delhi","Media & Entertainment",41
+"2023-04-23","Delhi","Professional Services",46
+"2023-04-23","Deoghar","Education",2
+"2023-04-23","Dhaka","Manufacturing",1
+"2023-04-23","Dhule","Government",4
+"2023-04-23","Dhule","Automobiles",6
+"2023-04-23","Dombivali","IT/ITES",2
+"2023-04-23","Dombivali","Manufacturing",1
+"2023-04-23","Dubai","IT/ITES",2
+"2023-04-23","Dubai","Professional Services",6
+"2023-04-23","Eluru","Manufacturing",1
+"2023-04-23","Ernakulam","Professional Services",4
+"2023-04-23","Ernakulam","IT/ITES",1
+"2023-04-23","Ernakulam","Manufacturing",3
+"2023-04-23","Ernakulam","BFSI",5
+"2023-04-23","Ernakulam","Automobiles",9
+"2023-04-23","Ernakulam","Hospitality & Healthcare",24
+"2023-04-23","Erode","Professional Services",2
+"2023-04-23","Etah","Manufacturing",2
+"2023-04-23","Faizabad","Professional Services",1
+"2023-04-23","Faridabad","Hospitality & Healthcare",6
+"2023-04-23","Faridabad","Manufacturing",2
+"2023-04-23","Faridabad","Automobiles",5
+"2023-04-23","Faridabad","Professional Services",20
+"2023-04-23","Gaborone","Manufacturing",1
+"2023-04-23","Gandhidham","Manufacturing",2
+"2023-04-23","Gandhidham","Professional Services",1
+"2023-04-23","Gandhidham","Government",38
+"2023-04-23","Gandhinagar","Professional Services",9
+"2023-04-23","Gandhinagar","Manufacturing",167
+"2023-04-23","General Mariano Alvarez","Professional Services",3
+"2023-04-23","Ghaziabad","Hospitality & Healthcare",1
+"2023-04-23","Ghaziabad","Manufacturing",1
+"2023-04-23","Ghaziabad","Government",27
+"2023-04-23","Ghaziabad","Professional Services",19
+"2023-04-23","Ghazipur","Education",13
+"2023-04-23","Godhra","Professional Services",4
+"2023-04-23","Gondal","Manufacturing",6
+"2023-04-23","Gorakhpur","Hospitality & Healthcare",5
+"2023-04-23","Greater Noida","Education",4
+"2023-04-23","Greater Noida","Professional Services",10
+"2023-04-23","Guntur","Education",2
+"2023-04-23","Gurgaon","Automobiles",2
+"2023-04-23","Gurgaon","BFSI",1
+"2023-04-23","Gurgaon","IT/ITES",2
+"2023-04-23","Gurgaon","Government",9
+"2023-04-23","Gurgaon","Hospitality & Healthcare",7
+"2023-04-23","Gurgaon","Education",8
+"2023-04-23","Gurgaon","Manufacturing",10
+"2023-04-23","Gurgaon","Professional Services",90
+"2023-04-23","Guwahati","Government",3
+"2023-04-23","Guwahati","Professional Services",3
+"2023-04-23","Guwahati","Media & Entertainment",1
+"2023-04-23","Guwahati","Manufacturing",8
+"2023-04-23","Halol","Manufacturing",66
+"2023-04-23","Hamtic","Professional Services",1
+"2023-04-23","Hanamkonda","Hospitality & Healthcare",1
+"2023-04-23","Haridwar","Education",104
+"2023-04-23","Himatnagar","Manufacturing",6
+"2023-04-23","Hisar","Government",5
+"2023-04-23","Hosur","Professional Services",5
+"2023-04-23","Hubli","Media & Entertainment",14
+"2023-04-23","Hwaseong-si","Professional Services",2
+"2023-04-23","Hyderabad","BFSI",6
+"2023-04-23","Hyderabad","Automobiles",2
+"2023-04-23","Hyderabad","IT/ITES",167
+"2023-04-23","Hyderabad","Professional Services",76
+"2023-04-23","Hyderabad","Media & Entertainment",122
+"2023-04-23","Hyderabad","Education",12
+"2023-04-23","Hyderabad","Government",74
+"2023-04-23","Hyderabad","Manufacturing",38
+"2023-04-23","Hyderabad","Hospitality & Healthcare",679
+"2023-04-23","Ichalkaranji","Manufacturing",2
+"2023-04-23","Ichalkaranji","Education",2
+"2023-04-23","Imphal","Education",3
+"2023-04-23","Incheon","Professional Services",2
+"2023-04-23","Indore","Education",1
+"2023-04-23","Indore","Professional Services",9
+"2023-04-23","Indore","Strategic & Public Enterprises",5
+"2023-04-23","Indore","IT/ITES",2
+"2023-04-23","Indore","Media & Entertainment",2
+"2023-04-23","Indore","Manufacturing",13
+"2023-04-23","Indore","Government",11
+"2023-04-23","Jabalpur","Government",7
+"2023-04-23","Jaipur","Education",13
+"2023-04-23","Jaipur","Manufacturing",9
+"2023-04-23","Jaipur","Professional Services",27
+"2023-04-23","Jaipur","Hospitality & Healthcare",9
+"2023-04-23","Jaipur","Government",19
+"2023-04-23","Jaipur","Strategic & Public Enterprises",186
+"2023-04-23","Jalandhar","Professional Services",19
+"2023-04-23","Jalandhar","Government",54
+"2023-04-23","Jalgaon","Manufacturing",69
+"2023-04-23","Jalna","Hospitality & Healthcare",11
+"2023-04-23","Jalpaiguri","Education",8
+"2023-04-23","Jammu","Professional Services",1
+"2023-04-23","Jammu","Government",2
+"2023-04-23","Jammu","Strategic & Public Enterprises",4
+"2023-04-23","Jammu","Hospitality & Healthcare",5
+"2023-04-23","Jammu","Education",9
+"2023-04-23","Jamnagar","Manufacturing",6
+"2023-04-23","Jamshedpur","Professional Services",1
+"2023-04-23","Jaspur","Professional Services",8
+"2023-04-23","Jaspur","Manufacturing",16
+"2023-04-23","Jhansi","Government",3
+"2023-04-23","Jharsuguda","Government",1
+"2023-04-23","Jharsuguda","Telecom",1
+"2023-04-23","Jharsuguda","Education",5
+"2023-04-23","Jinnaram","Professional Services",63
+"2023-04-23","Jodhpur","Manufacturing",1
+"2023-04-23","Jodhpur","Strategic & Public Enterprises",30
+"2023-04-23","Johannesburg","Professional Services",2
+"2023-04-23","Juliaca","Professional Services",2
+"2023-04-23","Kalpakkam","Government",1
+"2023-04-23","Kalyan","Manufacturing",1
+"2023-04-23","Kanhangad","Professional Services",1
+"2023-04-23","Kannauj","Hospitality & Healthcare",1
+"2023-04-23","Kanpur","Professional Services",1
+"2023-04-23","Kanpur","Media & Entertainment",1
+"2023-04-23","Kanpur","Logistic",2
+"2023-04-23","Kapurthala Town","Education",4
+"2023-04-23","Karaikudi","Government",59
+"2023-04-23","Karimnagar","Government",9
+"2023-04-23","Karimnagar","Media & Entertainment",2
+"2023-04-23","Karnal","Education",1
+"2023-04-23","Kashipur","Professional Services",14
+"2023-04-23","Kathlal","Manufacturing",2
+"2023-04-23","Kharar","Professional Services",3
+"2023-04-23","Kheda","Manufacturing",2
+"2023-04-23","Kheda","IT/ITES",10
+"2023-04-23","Khergam","IT/ITES",1
+"2023-04-23","Khergam","Manufacturing",3
+"2023-04-23","Khon Kaen","Professional Services",439
+"2023-04-23","Kichha","Hospitality & Healthcare",4
+"2023-04-23","Kochi","Hospitality & Healthcare",2
+"2023-04-23","Kochi","Professional Services",42
+"2023-04-23","Kodaikanal","Professional Services",6
+"2023-04-23","Kohima","Hospitality & Healthcare",4
+"2023-04-23","Kohima","Professional Services",2
+"2023-04-23","Kolhapur","Hospitality & Healthcare",1
+"2023-04-23","Kolhapur","Education",17
+"2023-04-23","Kolkata","Hospitality & Healthcare",15
+"2023-04-23","Kolkata","Media & Entertainment",6
+"2023-04-23","Kolkata","Manufacturing",33
+"2023-04-23","Kolkata","IT/ITES",4
+"2023-04-23","Kolkata","Education",28
+"2023-04-23","Kolkata","Government",35
+"2023-04-23","Kolkata","Professional Services",325
+"2023-04-23","Kollam","Manufacturing",1
+"2023-04-23","Kollam","Education",1
+"2023-04-23","Kollam","Transport",1
+"2023-04-23","Kollam","Professional Services",1
+"2023-04-23","Kollam","Hospitality & Healthcare",96
+"2023-04-23","Korba","Manufacturing",2
+"2023-04-23","Korba","Government",108
+"2023-04-23","Kota","Professional Services",6
+"2023-04-23","Kotputli","Professional Services",2
+"2023-04-23","Kottayam","Professional Services",1
+"2023-04-23","Kottayam","BFSI",1
+"2023-04-23","Kozhikode","Education",2
+"2023-04-23","Kozhikode","Professional Services",22
+"2023-04-23","Kuchaman","Manufacturing",3
+"2023-04-23","Kumbh","Automobiles",1
+"2023-04-23","Kumbh","Media & Entertainment",22
+"2023-04-23","Kurnool","Media & Entertainment",3
+"2023-04-23","Kurwai","Manufacturing",1
+"2023-04-23","Lampang","Professional Services",1
+"2023-04-23","Latur","Professional Services",3
+"2023-04-23","Lima","Professional Services",3
+"2023-04-23","Lipa City","Professional Services",4
+"2023-04-23","Luanda","Professional Services",7
+"2023-04-23","Lucknow","Manufacturing",1
+"2023-04-23","Lucknow","Professional Services",12
+"2023-04-23","Ludhiana","Media & Entertainment",3
+"2023-04-23","Ludhiana","Education",4
+"2023-04-23","Ludhiana","Government",2
+"2023-04-23","Ludhiana","Professional Services",8
+"2023-04-23","Ludhiana","Manufacturing",40
+"2023-04-23","Machilipatnam","Education",1
+"2023-04-23","Madurai","Manufacturing",2
+"2023-04-23","Makati City","Professional Services",1
+"2023-04-23","Malappuram","Government",1
+"2023-04-23","Malappuram","Manufacturing",21
+"2023-04-23","Malda","Professional Services",11
+"2023-04-23","Malda","Manufacturing",1
+"2023-04-23","Malvern","Professional Services",5
+"2023-04-23","Manila","Professional Services",521
+"2023-04-23","Manjeri","Manufacturing",4
+"2023-04-23","Mansa","Power & Energy",18
+"2023-04-23","Marikina City","Professional Services",1
+"2023-04-23","Mathura","Professional Services",1
+"2023-04-23","Medarametla","Hospitality & Healthcare",2
+"2023-04-23","Meerut","Media & Entertainment",1
+"2023-04-23","Meerut","Professional Services",2
+"2023-04-23","Meerut","Hospitality & Healthcare",1
+"2023-04-23","Meerut","Manufacturing",6
+"2023-04-23","Melbourne","Professional Services",1
+"2023-04-23","Mettupalayam","Hospitality & Healthcare",1
+"2023-04-23","Mhow","Education",3
+"2023-04-23","Mhow","Professional Services",10
+"2023-04-23","Miraj","Manufacturing",12
+"2023-04-23","Mohali","Media & Entertainment",4
+"2023-04-23","Mohali","Hospitality & Healthcare",3
+"2023-04-23","Mohali","Manufacturing",7
+"2023-04-23","Mohali","Automobiles",5
+"2023-04-23","Mohali","IT/ITES",116
+"2023-04-23","Mohali","Professional Services",1402
+"2023-04-23","Mongar","Manufacturing",1
+"2023-04-23","Morvi","Manufacturing",13
+"2023-04-23","Mumbai","Media & Entertainment",1
+"2023-04-23","Mumbai","Government",35
+"2023-04-23","Mumbai","BFSI",50
+"2023-04-23","Mumbai","Automobiles",307
+"2023-04-23","Mumbai","Education",19
+"2023-04-23","Mumbai","Logistic",20
+"2023-04-23","Mumbai","Hospitality & Healthcare",153
+"2023-04-23","Mumbai","Professional Services",232
+"2023-04-23","Mumbai","Manufacturing",1098
+"2023-04-23","Mumbai","IT/ITES",897
+"2023-04-23","Mussoorie","Professional Services",6
+"2023-04-23","Muzaffarnagar","Professional Services",3
+"2023-04-23","Mysore","Hospitality & Healthcare",3
+"2023-04-23","Mysore","Manufacturing",14
+"2023-04-23","Mysore","Professional Services",15
+"2023-04-23","Nadiad","Education",3
+"2023-04-23","Nagapattinam","Hospitality & Healthcare",10
+"2023-04-23","Nagpur","BFSI",10
+"2023-04-23","Nagpur","Government",3
+"2023-04-23","Nagpur","Education",6
+"2023-04-23","Nagpur","IT/ITES",1
+"2023-04-23","Nagpur","Manufacturing",107
+"2023-04-23","Nairobi","Professional Services",3
+"2023-04-23","Nakhon Pathom","Professional Services",1
+"2023-04-23","Nakhon Ratchasima","Professional Services",1
+"2023-04-23","Nangal","Professional Services",3
+"2023-04-23","Nashik","Manufacturing",4
+"2023-04-23","Nashik","Professional Services",2
+"2023-04-23","Nasrapur","Manufacturing",36
+"2023-04-23","Nellore","IT/ITES",1
+"2023-04-23","Nellore","Education",2
+"2023-04-23","New Delhi","BFSI",1
+"2023-04-23","New Delhi","Education",10
+"2023-04-23","New Delhi","Media & Entertainment",13
+"2023-04-23","New Delhi","Hospitality & Healthcare",23
+"2023-04-23","New Delhi","Logistic",14
+"2023-04-23","New Delhi","Automobiles",287
+"2023-04-23","New Delhi","Government",166
+"2023-04-23","New Delhi","Professional Services",127
+"2023-04-23","New Delhi","IT/ITES",49
+"2023-04-23","New Delhi","Manufacturing",41
+"2023-04-23","Noida","Hospitality & Healthcare",2
+"2023-04-23","Noida","Government",6
+"2023-04-23","Noida","IT/ITES",90
+"2023-04-23","Noida","Manufacturing",616
+"2023-04-23","Noida","Professional Services",53
+"2023-04-23","Oakville","Professional Services",3
+"2023-04-23","Ongole","Automobiles",1
+"2023-04-23","Ooty","BFSI",3
+"2023-04-23","Ottapalam","Government",60
+"2023-04-23","Palakkad","Hospitality & Healthcare",2
+"2023-04-23","Palghar","Manufacturing",17
+"2023-04-23","Pallapatti","Manufacturing",108
+"2023-04-23","Panchkula","Professional Services",2
+"2023-04-23","Panipat","Manufacturing",1
+"2023-04-23","Pannipitiya","Professional Services",32
+"2023-04-23","Pantnagar","Government",1
+"2023-04-23","Pantnagar","Education",11
+"2023-04-23","Pardi","Manufacturing",1
+"2023-04-23","Pathanamthitta","BFSI",2
+"2023-04-23","Pathum Thani","Professional Services",3
+"2023-04-23","Patiala","Hospitality & Healthcare",3
+"2023-04-23","Patna","Manufacturing",1
+"2023-04-23","Patna","Professional Services",38
+"2023-04-23","Pattaya","Professional Services",5
+"2023-04-23","Pehowa","Professional Services",4
+"2023-04-23","Pehowa","Automobiles",30
+"2023-04-23","Pen","Strategic & Public Enterprises",1
+"2023-04-23","Petaling Jaya","Professional Services",2
+"2023-04-23","Phagwara","Education",1
+"2023-04-23","Phitsanulok","Professional Services",2
+"2023-04-23","Phnom Penh","Professional Services",275
+"2023-04-23","Pimpri-Chinchwad","Professional Services",1
+"2023-04-23","Ponda","Manufacturing",3
+"2023-04-23","Porbandar","Manufacturing",7
+"2023-04-23","Puducherry","Government",2
+"2023-04-23","Pune","Logistic",3
+"2023-04-23","Pune","Hospitality & Healthcare",6
+"2023-04-23","Pune","Automobiles",6
+"2023-04-23","Pune","Transport",3
+"2023-04-23","Pune","Education",55
+"2023-04-23","Pune","BFSI",2
+"2023-04-23","Pune","Power & Energy",1
+"2023-04-23","Pune","Manufacturing",157
+"2023-04-23","Pune","Government",11
+"2023-04-23","Pune","IT/ITES",83
+"2023-04-23","Pune","Professional Services",650
+"2023-04-23","Quezon","Professional Services",5
+"2023-04-23","Quezon City","Professional Services",42
+"2023-04-23","Raiganj","Government",2
+"2023-04-23","Raipur","Professional Services",10
+"2023-04-23","Raipur","Manufacturing",22
+"2023-04-23","Rajahmundry","Hospitality & Healthcare",2
+"2023-04-23","Rajkot","Professional Services",1
+"2023-04-23","Rajkot","Education",8
+"2023-04-23","Rajkot","Manufacturing",59
+"2023-04-23","Ranibennur","Professional Services",2
+"2023-04-23","Ranibennur","Manufacturing",3
+"2023-04-23","Ratchaburi","Professional Services",432
+"2023-04-23","Riviera Maya","Professional Services",16
+"2023-04-23","Rizal","Professional Services",2
+"2023-04-23","Rohtak","Professional Services",34
+"2023-04-23","Ropar","IT/ITES",1
+"2023-04-23","Salem","Manufacturing",1
+"2023-04-23","Salem","Hospitality & Healthcare",9
+"2023-04-23","Salem","Government",2
+"2023-04-23","Salem","Professional Services",239
+"2023-04-23","San Pedro Sula","Professional Services",3
+"2023-04-23","Sanand","Education",16
+"2023-04-23","Sangli","Hospitality & Healthcare",25
+"2023-04-23","Sangli","Manufacturing",282
+"2023-04-23","Santa Rosa","Professional Services",9
+"2023-04-23","Santiago de Cali","Professional Services",1
+"2023-04-23","Seeb","Manufacturing",1
+"2023-04-23","Seoul","Professional Services",2
+"2023-04-23","Serampore","Professional Services",12
+"2023-04-23","Sharjah","Professional Services",6
+"2023-04-23","Shillong","Government",250
+"2023-04-23","Shimla","Government",1
+"2023-04-23","Shirpur","Education",16
+"2023-04-23","Si Sa Ket","Professional Services",1
+"2023-04-23","Silvassa","Manufacturing",20
+"2023-04-23","Singapore","Professional Services",6
+"2023-04-23","Singrauli","Education",2
+"2023-04-23","Singrauli","Government",5
+"2023-04-23","Sivakasi","Education",27
+"2023-04-23","Siwan","Manufacturing",1
+"2023-04-23","Solan","Manufacturing",1
+"2023-04-23","Solan","Professional Services",20
+"2023-04-23","Solan","Hospitality & Healthcare",24
+"2023-04-23","Songkhla","Professional Services",4
+"2023-04-23","Srinagar","Professional Services",2
+"2023-04-23","Sullia","Government",530
+"2023-04-23","Sunam","Government",1
+"2023-04-23","Surat","Professional Services",16
+"2023-04-23","Surat","Manufacturing",2016
+"2023-04-23","Surendranagar","Manufacturing",8
+"2023-04-23","Sydney","Manufacturing",2
+"2023-04-23","Taguig","Professional Services",1
+"2023-04-23","Talisay City","Professional Services",2
+"2023-04-23","Tanauan","Professional Services",3
+"2023-04-23","Tarlac City","Professional Services",24
+"2023-04-23","Thane","Manufacturing",1
+"2023-04-23","Thane","IT/ITES",3
+"2023-04-23","Thane","Professional Services",11
+"2023-04-23","Thane","Strategic & Public Enterprises",1
+"2023-04-23","Thane","Hospitality & Healthcare",8
+"2023-04-23","Thane","Education",11
+"2023-04-23","Thanjavur","Education",529
+"2023-04-23","Thanyaburi","Professional Services",5
+"2023-04-23","Thimphu","Manufacturing",3
+"2023-04-23","Thimphu","Professional Services",2
+"2023-04-23","Thrissur","Education",3
+"2023-04-23","Thrissur","BFSI",8
+"2023-04-23","Thrissur","Hospitality & Healthcare",39
+"2023-04-23","Tiruchi","Professional Services",9
+"2023-04-23","Tiruchi","Education",97
+"2023-04-23","Tirunelveli","Government",1
+"2023-04-23","Tirunelveli","Manufacturing",1
+"2023-04-23","Tirupur","Education",13
+"2023-04-23","Todabhim","Manufacturing",1
+"2023-04-23","Trivandrum","Government",3
+"2023-04-23","Trivandrum","Education",3
+"2023-04-23","Trivandrum","Automobiles",1
+"2023-04-23","Trivandrum","Hospitality & Healthcare",1
+"2023-04-23","Trivandrum","Manufacturing",168
+"2023-04-23","Udaipur","Government",1
+"2023-04-23","Udaipur","Manufacturing",1
+"2023-04-23","Udaipur","Hospitality & Healthcare",17
+"2023-04-23","Ujjain","Manufacturing",5
+"2023-04-23","Ulhasnagar","Professional Services",1
+"2023-04-23","Ulhasnagar","IT/ITES",2
+"2023-04-23","Ulhasnagar","Manufacturing",54
+"2023-04-23","Vadodara","Hospitality & Healthcare",2
+"2023-04-23","Vadodara","Government",1
+"2023-04-23","Vadodara","Education",25
+"2023-04-23","Vadodara","Professional Services",6
+"2023-04-23","Vadodara","Manufacturing",544
+"2023-04-23","Valsad","Manufacturing",7
+"2023-04-23","Valsad","Hospitality & Healthcare",71
+"2023-04-23","Vapi","Manufacturing",20
+"2023-04-23","Varanasi","Manufacturing",2
+"2023-04-23","Vijayawada","Manufacturing",1
+"2023-04-23","Vijayawada","Education",1
+"2023-04-23","Vijayawada","Media & Entertainment",2
+"2023-04-23","Vijayawada","Government",54
+"2023-04-23","Vijayawada","Hospitality & Healthcare",111
+"2023-04-23","Visakhapatnam","Hospitality & Healthcare",1
+"2023-04-23","Visakhapatnam","Education",24
+"2023-04-23","Visakhapatnam","IT/ITES",2
+"2023-04-23","Visakhapatnam","Professional Services",73
+"2023-04-23","Yamunanagar","Manufacturing",17
+"2023-04-23","Yasothon","Professional Services",2
+"2023-04-23","Yongin-si","Professional Services",10
